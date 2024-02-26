@@ -1,0 +1,5 @@
+
+                        <div class="mb-4">
+                            <label for="deskripsi" class="form-label">Deskripsi:</label>
+                            <textarea name="deskripsi" class="form-control" required></textarea>
+                        </div>
